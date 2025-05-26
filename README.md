@@ -3,7 +3,7 @@ El robot-carrito es un **sistema robótico autónomo y modular**, diseñado como
 - **Accesibilidad**: Pensado para makers, estudiantes y entusiastas.  
 - **Modularidad**: Permite añadir/remover sensores y actuadores.  
 - **Interacción intuitiva**: Control mediante comandos de voz en español.  
-![]()
+![Imagen del Carrito](Carrito.jpeg)
 ---
 
 ## **¿Qué hace el Robot-Carrito?**  
